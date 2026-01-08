@@ -12,11 +12,12 @@ I'm a dedicated Full Stack Software Developer that uses a variety of tech stacks
 ![](https://nirzak-streak-stats.vercel.app/?user=DescentChapfuwa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DescentChapfuwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-MY PROJECTS
+_________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________
+#  My Projects:
 
-WEATHER DASHBOARD APP
-
-_______________________________________________________________________________________________________________________________________________________________
+1).WEATHER DASHBOARD APP 
+______________________________________________________________________________________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________________________
 
 REACT (NEXT.JS) AND TYPESCRIPT
@@ -25,6 +26,8 @@ View Github Repository : https://github.com/DescentChapfuwa/Weather-Dasboard
 
 View Project Live : https://descentchapfuwa.github.io/Weather-Dasboard/
 
+_______________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________
 Screenshots:
 
 <img width="1364" height="632" alt="WEATHERAPP1 " src="https://github.com/user-attachments/assets/3292a2c3-deac-4561-b31f-cece3fa13fe0" />
