@@ -12,10 +12,33 @@ I'm a dedicated Full Stack Software Developer that uses a variety of tech stacks
 ![](https://nirzak-streak-stats.vercel.app/?user=DescentChapfuwa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DescentChapfuwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+MY PROJECTS
+
+WEATHER DASHBOARD APP
+
+_______________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________
+
+REACT (NEXT.JS) AND TYPESCRIPT
+
+View Github Repository : https://github.com/DescentChapfuwa/Weather-Dasboard
+
+View Project Live : https://descentchapfuwa.github.io/Weather-Dasboard/
+
+Screenshots:
+
+<img width="1364" height="632" alt="WEATHERAPP1 " src="https://github.com/user-attachments/assets/3292a2c3-deac-4561-b31f-cece3fa13fe0" />
+<img width="1366" height="591" alt="WEATHERAPP2 " src="https://github.com/user-attachments/assets/285649d5-7353-4ff6-978c-235d943665b3" />
+<img width="1366" height="554" alt="WEATHERAPP3 " src="https://github.com/user-attachments/assets/5e7f8c27-85ed-4990-b97a-99a0c4e60b7a" />
+
+______________________________________________________________________________________________________________________________________________________________
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DescentChapfuwa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
