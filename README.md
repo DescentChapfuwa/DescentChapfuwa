@@ -31,7 +31,9 @@ ________________________________________________________________________________
 Screenshots:
 
 <img width="1364" height="632" alt="WEATHERAPP1 " src="https://github.com/user-attachments/assets/3292a2c3-deac-4561-b31f-cece3fa13fe0" />
+
 <img width="1366" height="591" alt="WEATHERAPP2 " src="https://github.com/user-attachments/assets/285649d5-7353-4ff6-978c-235d943665b3" />
+
 <img width="1366" height="554" alt="WEATHERAPP3 " src="https://github.com/user-attachments/assets/5e7f8c27-85ed-4990-b97a-99a0c4e60b7a" />
 
 ______________________________________________________________________________________________________________________________________________________________
